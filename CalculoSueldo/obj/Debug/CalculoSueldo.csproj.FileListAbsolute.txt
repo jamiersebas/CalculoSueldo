@@ -1,0 +1,7 @@
+C:\Users\Jamier\source\repos\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csprojResolveAssemblyReference.cache
+C:\Users\Jamier\source\repos\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Jamier\source\repos\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe.config
+C:\Users\Jamier\source\repos\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe
+C:\Users\Jamier\source\repos\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.pdb
+C:\Users\Jamier\source\repos\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.exe
+C:\Users\Jamier\source\repos\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.pdb
